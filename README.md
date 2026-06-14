@@ -877,6 +877,6 @@ Hasil tersebut memenuhi seluruh persamaan yang diberikan sehingga solusi dinyata
 Bab 11 membahas berbagai metode penyelesaian sistem persamaan linear dan nonlinier, termasuk Thomas Algorithm, Cholesky Decomposition, Gauss-Seidel, Jacobi Iteration, analisis condition number, serta aplikasi finite difference.
 
 Seluruh problem 11.1–11.28 telah diimplementasikan menggunakan Python dan diverifikasi melalui hasil numerik yang sesuai dengan teori metode numerik.
-=======
-# UAS-Metode-Numerik
->>>>>>> 4ad40aeb1df388e11d7660b24ad85f8ce530ef4a
+
+
+
